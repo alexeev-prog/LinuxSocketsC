@@ -1,0 +1,13 @@
+{
+	"prelude_commands": [],
+	"targets": {
+		"target1": {
+			"compiler_options": ["-O2", "-pedantic"],
+			"sources": ["src/main.c"],
+			"output": "out/main.out",
+			"objects": [],
+			"compiler": "gcc"
+		}
+	},
+	"post_commands": []
+}

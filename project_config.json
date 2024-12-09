@@ -1,0 +1,16 @@
+{
+	"metadata": {
+		"name": "LinuxSocketsC",
+		"version": "0.1.0",
+		"description": "Programming Linux Sockets in C",
+		"language": "c",
+		"use_cmake": false,
+		"cache_file": "cache.json",
+		"features": []
+	},
+
+	"compiler": {
+		"name": "gcc",
+		"base_compiler_flags": ["-Wall"]
+	}
+}
